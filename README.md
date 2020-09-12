@@ -12,5 +12,8 @@ The topics are as follows:
 The notebooks were written and executed in Google Colab.
 We are not delving into machine learning or object oriented programming. But for introduction to data analysis, please refer to notebooks of day 4 and day 5.
 
+For the notebook on Exploratory data analysis (Day 5), please download the train.csv dataset from https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+
 
 
